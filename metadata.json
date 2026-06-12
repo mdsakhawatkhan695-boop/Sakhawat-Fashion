@@ -1,0 +1,6 @@
+{
+  "name": "Sakhawat Fashion",
+  "description": "সাখাওয়াত ফ্যাশন (Sakhawat Fashion) - উদারতায় বিশ্বাস, ফ্যাশনে আভিজাত্য। প্রিমিয়াম কোয়ালিটি ক্যাজুয়াল শার্ট, ট্রেন্ডি কটন টি-শার্ট এবং এক্সক্লুসিভ পাঞ্জাবি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
